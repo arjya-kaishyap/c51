@@ -1,0 +1,33 @@
+h1{
+    color:blue
+       }
+     /*  *{
+    border:solid      
+       }*/
+
+       .header{
+           background-color: cadetblue;
+           display: flex;
+           justify-content: space-between;
+       }
+       .grid{
+           display:flex;
+           flex-wrap: wrap;
+           justify-content: space-evenly;
+       }
+       .footer{
+           display: flex;
+           justify-content: flex-end;
+       }
+
+       p,h2{
+           text-align: center;
+       }
+       body{
+           background-color: #808080;
+           margin: 10px 20px 30px 25px;
+           font-size: 18px;
+           font-style: italic;
+           border: 2px solid;
+           
+       }
